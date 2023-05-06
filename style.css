@@ -1,0 +1,13 @@
+body {
+	background: black;
+	background-image: url(kutu.jpeg), url(kutu2.jpeg);
+	background-position: top left, center ;
+	background-repeat: repeat-x, no-repeat;
+	background-size: 130px, 300px;
+
+}
+h1,h2,h3 {
+	font-family: Arial;
+	font-size: 40px;
+	color: white;
+}
